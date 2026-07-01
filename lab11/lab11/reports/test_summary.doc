@@ -1,0 +1,26 @@
+{\rtf1\ansi\deff0
+{\fonttbl{\f0 Arial;}}
+\fs28\b Lab 11.5 Test Suite Summary\b0\par
+\par
+\fs24\b Number of tests\b0\par
+11 automated tests.\par
+\par
+\b Types of tests\b0\par
+- Unit tests for Task and TaskRepository.\par
+- Widget tests for empty state and task creation.\par
+- Navigation test for opening TaskDetailScreen.\par
+- Integration-style widget test for add, edit, save, and return-to-list flow.\par
+\par
+\b Behaviors validated\b0\par
+- New tasks default to incomplete.\par
+- toggle() switches completion state both directions.\par
+- Repository add, delete, and update operations work.\par
+- Task list renders the empty state.\par
+- Users can add one or multiple tasks.\par
+- Tapping a task opens the detail screen.\par
+- Saving an edited title updates the task list.\par
+\par
+\b Known limitations\b0\par
+- The integration test runs with Flutter's widget test framework, not on a real device through the integration_test package.\par
+- DevTools screenshots must be captured manually from a debug session before final submission.\par
+}

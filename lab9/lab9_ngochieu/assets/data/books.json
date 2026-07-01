@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic Fiction",
+    "year": 1960,
+    "rating": 4.8,
+    "description": "A novel exploring themes of racial injustice and the loss of innocence in the American South, viewed through the eyes of young Scout Finch."
+  },
+  {
+    "id": "2",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Sci-Fi",
+    "year": 1949,
+    "rating": 4.7,
+    "description": "A chilling prophecy of a totalitarian future, where Big Brother exerts total control over every aspect of life and thought."
+  },
+  {
+    "id": "3",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic Literature",
+    "year": 1925,
+    "rating": 4.4,
+    "description": "A classic portrait of the Jazz Age, exploring themes of wealth, idealism, social upheaval, and the elusive nature of the American Dream."
+  },
+  {
+    "id": "4",
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Epic Sci-Fi",
+    "year": 1965,
+    "rating": 4.6,
+    "description": "A sweeping science fiction epic set on the desert planet of Arrakis, dealing with themes of politics, religion, ecology, and human evolution."
+  },
+  {
+    "id": "5",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "High Fantasy",
+    "year": 1937,
+    "rating": 4.9,
+    "description": "The beloved fantasy adventure of Bilbo Baggins as he is swept into a quest to reclaim a treasure guarded by the dragon Smaug."
+  },
+  {
+    "id": "6",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance / Satire",
+    "year": 1813,
+    "rating": 4.5,
+    "description": "A sparkling romantic comedy centering on the turbulent relationship between Elizabeth Bennet and the proud Mr. Darcy."
+  }
+]
